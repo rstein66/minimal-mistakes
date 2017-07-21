@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : *name
 description              : "Programmer's Personal Page"
 url                      : &gh-pages "https://rstein66.github.io/"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -90,13 +90,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : &github "https://www.github.com/rstein66"
+  github           : &github "rstein66"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : &linkedin "https://www.linkedin.com/in/rstein66"
+  linkedin         : &linkedin "rstein66"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
