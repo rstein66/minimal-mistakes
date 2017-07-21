@@ -80,7 +80,7 @@ analytics:
 author:
   name             : *name
   avatar           : &avatar /assets/images/rachel.png
-  bio              : "Junior Developer • Outdoors, Ed, & Distributed Sys Enthusiast"
+  bio              : "Junior Developer" #• Outdoors, Ed, & Distributed Sys Enthusiast"
   location         :
   email            :
   uri              : # *gh-pages
